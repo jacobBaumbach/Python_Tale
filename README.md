@@ -1,2 +1,2 @@
 # Python_Tale
-Multilayer RNN for Character Level Prediction
+Multilayer RNN in TensorFlow for Character Level Prediction
